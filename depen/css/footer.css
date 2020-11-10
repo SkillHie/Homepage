@@ -1,0 +1,39 @@
+
+.footer-holder
+{
+    padding-left: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #F0F0F0;
+    
+}
+
+.footer-holder div
+{
+
+    padding-top: 3%;
+    padding-bottom: 3%;
+    margin-right: 10%;
+    font-size: 12px;
+
+}
+
+
+.logo-social
+{
+    display: flex;
+    justify-content: center;
+}
+
+.logo-social div
+{
+    margin-left: 6px;
+    margin-right: 3px;
+}
+
+.space-extra
+{
+    padding-left: 10px;
+}
