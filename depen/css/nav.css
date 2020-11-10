@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,400;1,600&display=swap');
+body
+{
+ padding: 0;
+ margin: 0;
+ font-family: 'Open Sans', sans-serif;
+}
+
+.navbar-holder
+{
+    display: flex;
+    padding-left: 90px;
+    justify-content: space-between;
+}
+
+.navbar-left div img
+{
+    padding-top: 6px;
+    width: 140px;
+}
+
+.tfx
+{
+    padding-top: 10px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #5F5F5F;
+}
+.navbar-right
+{
+    padding-top: 20px;
+    padding-right: 90px;
+    display: flex;
+}
+
+.navbar-right div
+{
+    margin-right: 45px;
+}
+
+.navbar-right div input
+{
+    padding:14px 50px;
+    border: none;
+    background: #028AE1;
+    color: cornsilk;
+    font-weight: 600;
+}
