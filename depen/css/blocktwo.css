@@ -76,7 +76,8 @@
 
 .block-two-image
 {
-    width: 376px;
+    padding-top: 14%;
+    width: 400px;
 }
 
 .b-2-left-holder
@@ -109,4 +110,16 @@
     margin-right: auto;
     display: block;
    }
+   .block-extras
+   {
+       padding-left: 5%;
+      display: flex;
+      justify-content: center;
+      padding-bottom: 20px;
+   }
+   .block-extras div
+{
+    margin-right: 40px;
+}
+  
   }

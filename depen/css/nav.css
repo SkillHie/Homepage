@@ -49,3 +49,18 @@ body
     color: cornsilk;
     font-weight: 600;
 }
+
+@media (max-width: 800px) {
+
+    .navbar-holder
+    {
+        flex-direction: column;
+    }
+
+    .navbar-right
+    {
+        flex-direction: column;
+       
+    }
+      
+  }

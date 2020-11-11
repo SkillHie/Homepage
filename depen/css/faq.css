@@ -1,0 +1,12 @@
+.faq-list
+{
+    display: flex;
+    justify-content: space-between;
+    margin: 3% 10%;
+    padding: 1% 5%;
+    box-shadow: 0 4px 6px 0 rgba(0,0,0,0.1), 0 3px 10px 0 rgba(0,0,0,0.10);
+}
+.faq-pad
+{
+    padding-top: 2%;
+}
